@@ -1,4 +1,4 @@
-npmtest-deamdify@0.0.1 /home/travis/build/npmtest/node-npmtest-deamdify
+npmtest-deamdify@2017.4.23 /home/travis/build/npmtest/node-npmtest-deamdify
 └─┬ browserify@14.3.0 
   ├── assert@1.4.1 
   ├─┬ browser-pack@6.0.2 

@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-deamdify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-deamdify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-deamdify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-deamdify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-deamdify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-deamdify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-deamdify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-deamdify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-deamdify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-deamdify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-deamdify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-deamdify/build/coverage.html/index.html)
 
